@@ -1,4 +1,4 @@
-# Secure Web Application Case Study: Authentication, Access Control & Cloud Deployment
+# Secure Web Application Case Study: Authentication & Access Control
 
 A write-up of a full-stack web application built with security as the primary design
 constraint: user registration and login, two-factor authentication and role-gated admin
